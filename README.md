@@ -56,3 +56,5 @@ List of main compatible consensus client repositories:
 ## Node Monitoring Tools
 
 ## Other Useful Tools
+
+- [Wencash Staking Deposit Cli](https://github.com/wencash/staking-deposit-cli)
