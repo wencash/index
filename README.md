@@ -9,6 +9,8 @@
 
 ### Pre-Genesis
 
+[Wencash Genesis Deposit Contract](https://github.com/wencash/genesis-deposit-contract)
+
 ### Post-Genesis
 
 ## Node Configuration
